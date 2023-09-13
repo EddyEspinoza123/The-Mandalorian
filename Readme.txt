@@ -1,4 +1,4 @@
---SISTEMA BASICO DE INVENTARIO --
+--SISTEMA BASICO DE INVENTARIO PROCEDER A MIGRAR--
 --configuracion basica
 1 - Copie o mueva la carpeta PDO a su servidor local o remoto
 
